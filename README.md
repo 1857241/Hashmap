@@ -1,2 +1,2 @@
 # Hashmap
-FSDIADOGHSROWDQJDF
+Hashmap assignment code
